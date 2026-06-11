@@ -39,16 +39,7 @@ I use GitHub to showcase my projects, document my learning journey, and share co
 ## Contribution Calendar
 
 ![GitHub Contribution Grid](https://ghchart.rshah.org/amankumar5345)
-## Contribution Calendar
 
-![GitHub Contribution Grid](https://ghchart.rshah.org/409ba5/amankumar5345)
-## Contribution Graph
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amankumar5345&theme=react-dark)](https://github.com/amankumar5345)
-
-## Contribution Calendar
-
-![GitHub Contribution Grid](https://ghchart.rshah.org/amankumar5345)
 ## GitHub Streak
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=amankumar5345&theme=dark)
