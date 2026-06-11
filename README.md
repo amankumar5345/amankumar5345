@@ -15,7 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-i am Aman Final year Student at Nit Rourkela pursuing BTech i will graduated in 2027 here i generally use git hub to post my projects on ML Analytics and i also have a section of DSA where i solve daily leetcode problems i have a keen knowledge in Tech and love exploring
+Hi, I'm Aman Kumar, a B.Tech student at NIT Rourkela, graduating in 2027. I am passionate about technology, problem-solving, and building data-driven solutions.
+
+My interests lie in Machine Learning, Data Analytics, and Software Development. I actively work on ML and analytics projects and regularly solve LeetCode problems to strengthen my Data Structures and Algorithms skills.
+
+I use GitHub to showcase my projects, document my learning journey, and share coding solutions. I'm always eager to explore new technologies, take on challenging problems, and continue growing as a developer.
+
+
 
 
 ## 🌐 Socials:
